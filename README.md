@@ -19,11 +19,11 @@ Aspiring Entrepreneur in Technology (Techpreneur!). Lover of Artificial Intellig
 - Machine Learning
 - Computer Vision
 - Natural Language Processing
-- Mobile Applicaiton Development
+- Mobile Application Development
 
 📫 ***How to reach me:***
 - Email: samratsahoo2013@gmail.com
-- Twitter: @SamratSahoo2013
+- Twitter: [@SamratSahoo2013](https://twitter.com/samratsahoo2013)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SamratSahoo&show_icons=true" alt="SamratSahoo" /></p>
 
