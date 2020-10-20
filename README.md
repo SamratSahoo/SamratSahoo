@@ -1,4 +1,4 @@
-### Hey! I'm [Samrat]{https://samratsahoo.com}  👋
+### Hey! I'm [Samrat](https://samratsahoo.com)  👋
 ---
 <!--
 **SamratSahoo/SamratSahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
