@@ -9,7 +9,7 @@ Aspiring Entrepreneur in Technology (Techpreneur!). Lover of Artificial Intellig
 🔭 ***I’m currently working on***
 - StudyBuddyAI:  AI Tools to Accleerate Enhanced and Accessible Education
 - Twitter Bots For Social Good: Solving Mental Health With AI
-- Wikiaudia: Creating Educational Videos Using AI AND Wikipedia
+- Wikiaudia: Creating Educational Videos Using AI and Wikipedia
 
 🌱 ***I’m currently learning***
 <p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="bash" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="bash" width="40" height="40"/><img src="https://vignette.wikia.nocookie.net/google/images/9/98/Images-0.jpeg/revision/latest/top-crop/width/360/height/450?cb=20180309024157" alt="bash" width="40" height="40"/>
