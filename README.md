@@ -25,20 +25,9 @@ Aspiring Entrepreneur in Technology (Techpreneur!). Lover of Artificial Intellig
 - Email: samratsahoo2013@gmail.com
 - Twitter: [@SamratSahoo2013](https://twitter.com/samratsahoo2013)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SamratSahoo&show_icons=true" alt="SamratSahoo" /></p>
-
-<!--
-**SamratSahoo/SamratSahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=SamratSahoo&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamratSahoo&layout=compact" />
+</a>
