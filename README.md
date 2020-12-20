@@ -25,9 +25,9 @@ Aspiring Entrepreneur in Technology (Techpreneur!). Lover of Artificial Intellig
 - Email: samratsahoo2013@gmail.com
 - Twitter: [@SamratSahoo2013](https://twitter.com/samratsahoo2013)
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+<a href="https://github-readme-stats.vercel.app/api?username=SamratSahoo&count_private=true&show_icons=true" target="_blank">
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=SamratSahoo&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SamratSahoo&layout=compact" target="_blank">
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamratSahoo&layout=compact" />
 </a>
