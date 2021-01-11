@@ -3,7 +3,6 @@
 Aspiring Entrepreneur in Technology (Techpreneur!). Lover of Artificial Intelligence, Computer Science, Economics, and Politics! I love creating interdisciplinary products for social good!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SamratSahoo)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/SamratSahoo)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/SamratSahoo)](https://badges.pufler.dev)
 
 🔭 ***I’m currently working on***
