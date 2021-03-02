@@ -18,7 +18,6 @@ Aspiring Entrepreneur in Technology (Techpreneur!). Lover of Artificial Intellig
 - Machine Learning
 - Computer Vision
 - Natural Language Processing
-- Mobile Application Development
 
 📫 ***How to reach me:***
 - Email: samratsahoo2013@gmail.com
