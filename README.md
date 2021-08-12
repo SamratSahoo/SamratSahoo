@@ -6,7 +6,7 @@ Aspiring Entrepreneur in Technology (Techpreneur!). Lover of Artificial Intellig
 [![Repos Badge](https://badges.pufler.dev/repos/SamratSahoo)](https://badges.pufler.dev)
 
 🔭 ***I’m currently working on***
-- StudyBuddyAI:  AI Tools to Accleerate Enhanced and Accessible Education
+- [Swiftdeck](https://swiftdeck.io/):  AI Tools to Accleerate Enhanced and Accessible Education
 - Twitter Bots For Social Good: Solving Mental Health With AI
 - Wikiaudia: Creating Educational Videos Using AI and Wikipedia
 
