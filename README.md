@@ -11,7 +11,7 @@ Aspiring Entrepreneur in Technology (Techpreneur!). Lover of Artificial Intellig
 - Tokenstack: Democratizing NFT Technology for Developers and Businesses
 
 🌱 ***I’m currently learning***
-<p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="bash" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="bash" width="40" height="40"/><img src="https://vignette.wikia.nocookie.net/google/images/9/98/Images-0.jpeg/revision/latest/top-crop/width/360/height/450?cb=20180309024157" alt="bash" width="40" height="40"/>
+<p align="left"><img src="https://i.imgur.com/r0B0PrJ.png" alt="bash" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="bash" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/2048px-Ethereum-icon-purple.svg.png" alt="bash" width="40" height="40"/>
   
 💬 ***Ask me about***
 - Web Application Development
