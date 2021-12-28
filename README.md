@@ -15,9 +15,8 @@ Aspiring Entrepreneur in Technology (Techpreneur!). Lover of Artificial Intellig
   
 💬 ***Ask me about***
 - Web Application Development
-- Machine Learning
-- Computer Vision
-- Natural Language Processing
+- Machine Learning / Computer Vision / Natural Language Processing
+- Web3.0 / Blockchain
 
 📫 ***How to reach me:***
 - Email: samratsahoo2013@gmail.com
