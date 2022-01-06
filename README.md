@@ -1,6 +1,6 @@
 # Hey! I'm [Samrat](https://samratsahoo.com)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></img>
 
-Aspiring Entrepreneur in Technology (Techpreneur!). Lover of Artificial Intelligence, Computer Science, Economics, and Politics! I love creating interdisciplinary products for social good!
+Aspiring Entrepreneur in Technology (Techpreneur!). Lover of Web3, Blockchain, Computer Science, and Economics! I love creating interdisciplinary products for social good!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SamratSahoo)
 [![Repos Badge](https://badges.pufler.dev/repos/SamratSahoo)](https://badges.pufler.dev)
@@ -15,8 +15,8 @@ Aspiring Entrepreneur in Technology (Techpreneur!). Lover of Artificial Intellig
   
 💬 ***Ask me about***
 - Web Application Development
-- Machine Learning / Computer Vision / Natural Language Processing
 - Web3.0 / Blockchain
+- Machine Learning / Computer Vision / Natural Language Processing
 
 📫 ***How to reach me:***
 - Email: samratsahoo2013@gmail.com
