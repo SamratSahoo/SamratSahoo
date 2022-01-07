@@ -20,7 +20,7 @@ Aspiring Entrepreneur in Technology (Techpreneur!). Lover of Web3, Blockchain, C
 
 📫 ***How to reach me:***
 - Email: samratsahoo2013@gmail.com
-- Twitter: [@SamratSahoo2013](https://twitter.com/samratsahoo2013)
+- Twitter: [@samratdotjs](https://twitter.com/samratdotjs)
 
 <a href="https://github-readme-stats.vercel.app/api?username=SamratSahoo&count_private=true&show_icons=true" target="_blank">
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=SamratSahoo&count_private=true&show_icons=true" />
