@@ -1,4 +1,4 @@
-# Hey! I'm [Samrat](https://samratsahoo.com)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></img>
+# Hey! I'm [Samrat](https://samratsahoo.com)
 
 Aspiring Entrepreneur in Technology (Techpreneur!). Lover of Web3, Blockchain, Computer Science, and Economics! I love creating interdisciplinary products for social good!
 
