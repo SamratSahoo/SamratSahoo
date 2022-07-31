@@ -3,7 +3,6 @@
 Aspiring Entrepreneur in Technology (Techpreneur!). Lover of Web3, Blockchain, Computer Science, and Economics! I love creating interdisciplinary products for social good!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SamratSahoo)
-[![Repos Badge](https://badges.pufler.dev/repos/SamratSahoo)](https://badges.pufler.dev)
 
 🔭 ***I’m currently working on***
 - [Swiftdeck](https://swiftdeck.io/):  AI Tools to Acclerate Enhanced and Accessible Education
