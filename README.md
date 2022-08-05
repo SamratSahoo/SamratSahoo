@@ -5,12 +5,12 @@ Aspiring Entrepreneur in Technology (Techpreneur!). Lover of Web3, Blockchain, C
 ![Profile Views](https://komarev.com/ghpvc/?username=SamratSahoo)
 
 🔭 ***I’m currently working on***
-- [Swiftdeck](https://swiftdeck.io/):  AI Tools to Acclerate Enhanced and Accessible Education
+- [The Universal NFT Vector Database](https://universal-nft-vector-database.vercel.app/dashboard):  The World's First Open Source Large Scale NFT Vector Database for Similarity Matching
 - National NPP Portal: Connecting Nonprofits with Social Computing Organizations
 - Tokenstack: Democratizing NFT Technology for Developers and Businesses
 
 🌱 ***I’m currently learning***
-<p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" alt="bash" width="60" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="bash" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/2048px-Ethereum-icon-purple.svg.png" alt="bash" width="40" height="40"/>
+<p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" alt="bash" width="60" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="bash" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/NuxtJS_Logo.png" alt="bash" width="40" height="40"/>
   
 💬 ***Ask me about***
 - Web Application Development
