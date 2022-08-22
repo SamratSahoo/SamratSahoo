@@ -6,8 +6,8 @@ Aspiring Entrepreneur in Technology (Techpreneur!). Lover of Web3, Blockchain, C
 
 🔭 ***I’m currently working on***
 - [The Universal NFT Vector Database](https://universal-nft-vector-database.vercel.app/dashboard):  The World's First Open Source Large Scale NFT Vector Database for Similarity Matching
-- National NPP Portal: Connecting Nonprofits with Social Computing Organizations
-- Tokenstack: Democratizing NFT Technology for Developers and Businesses
+- [National NPP Portal](https://github.com/GTBitsOfGood/national-npp): Connecting Nonprofits with Social Computing Organizations
+- [Healing4Heroes](https://github.com/GTBitsOfGood/Healing4Heroes): Accelerating Training for Post-Traumatic Stress Disorder Service Animals
 
 🌱 ***I’m currently learning***
 <p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" alt="bash" width="60" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="bash" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/NuxtJS_Logo.png" alt="bash" width="40" height="40"/>
