@@ -13,7 +13,7 @@ Aspiring Entrepreneur in Technology (Techpreneur!). Lover of Web3, Blockchain, C
 <p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" alt="bash" width="60" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="bash" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/NuxtJS_Logo.png" alt="bash" width="40" height="40"/>
   
 💬 ***Ask me about***
-- Web Application Development
+- Web Application Development + Cloud Computing
 - Web3.0 / Blockchain
 - Machine Learning / Computer Vision / Natural Language Processing
 
