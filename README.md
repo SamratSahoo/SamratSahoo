@@ -1,6 +1,6 @@
 # Hey! I'm [Samrat](https://samratsahoo.com)
 
-Aspiring Entrepreneur in Technology (Techpreneur!). Lover of Artificial Intelligence, Blockchain, Computer Science, and Economics! I love creating interdisciplinary products for social good!
+Aspiring Entrepreneur in Technology (Techpreneur!). I love artificial intelligence, blockchains, education, and economics! I love creating interdisciplinary products for social good!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SamratSahoo)
 
