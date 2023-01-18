@@ -26,10 +26,5 @@ Aspiring Entrepreneur in Technology (Techpreneur!). I love artificial intelligen
 - Email: samratsahoo2013@gmail.com
 - Twitter: [@samratdotjs](https://twitter.com/samratdotjs)
 - My Thought Space: [https://samratsahoo.github.io/](https://samratsahoo.github.io/)
-
-<a href="https://github-readme-stats.vercel.app/api?username=SamratSahoo&count_private=true&show_icons=true" target="_blank">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=SamratSahoo&count_private=true&show_icons=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=SamratSahoo&layout=compact" target="_blank">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamratSahoo&layout=compact" />
-</a>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=SamratSahoo&theme=dracula&hide_border=true)](https://git.io/streak-stats)
