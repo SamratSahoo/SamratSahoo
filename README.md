@@ -16,8 +16,8 @@ I love building new paradigms to solve some of the world's most pressing issues 
 <p align="left"><img src="https://global.discourse-cdn.com/standard17/uploads/libp2p/original/1X/aacb49457c3aace79a1038dd02996b402260215d.png" alt="bash" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="bash" width="100" height="40"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh0pu45AFFx6ZTuDIOLkdIKL78kb4cVTntw&usqp=CAU" alt="bash" width="40" height="40"/>
   
 💬 ***Ask me about***
-- Web Application Development + Cloud Computing
-- Web3.0 / Blockchain
+- Blockchains / Distributed Systems
+- Web + Mobile App Development
 - Machine Learning / Computer Vision / Natural Language Processing
 
 📫 ***How to reach me:***
