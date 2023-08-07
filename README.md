@@ -1,6 +1,6 @@
 # Hey! I'm [Samrat](https://samratsahoo.com)
 
-I love building new paradigms to solve some of the world's most pressing issues in computing. Artificial intelligence, distributed systems, blockchains, education, and economics are all fields that excite me! In my free time, you'll find me leading [Bits of Good](https://bitsofgood.org/), helping some of the world's smartest engineers build great products for social impact.
+I love using computing to build new paradigms to solve the world's most pressing humanitarian issues. Artificial intelligence, distributed systems, blockchains, education, and economics are all fields that excite me! In my free time, you'll find me leading [Bits of Good](https://bitsofgood.org/), where I help nonprofits amplify their impact through computing.
 
 🔭 ***I’m currently working on***
 - [Trayne](https://github.com/SamratSahoo/Trayne): A distributed machine learning platform for training models at scale
