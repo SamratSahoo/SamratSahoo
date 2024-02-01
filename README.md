@@ -3,10 +3,10 @@
 I love using computing to build new paradigms to solve the world's most pressing humanitarian issues. Artificial intelligence, distributed systems, blockchains, education, and economics are all fields that excite me! In my free time, you'll find me leading [Bits of Good](https://bitsofgood.org/), where I help nonprofits amplify their impact through computing.
 
 🔭 ***I’m currently working on***
-- [Trayne](https://github.com/SamratSahoo/Trayne): A distributed machine learning platform for training models at scale
-- Scatter Protocol: An incentivized, privacy-centered federated learning protocol for collaborative machine learning
+- [Bits of Good Analytics Aggregation API](https://github.com/GTBitsOfGood/bog-analytics/): Unified Bits of Good Analytics - Built Using Streamlit & Express.js 
 
 💻 ***Projects I've Finished***
+- Scatter Protocol: An Incentivized and Trustless Protocol for Decentralized Federated Learning
 - [Healing4Heroes](https://github.com/GTBitsOfGood/Healing4Heroes): Accelerating Training for Post-Traumatic Stress Disorder Service Animals
 - [The Universal NFT Vector Database](https://github.com/gtfintechlab/Universal-NFT-Vector-Database):  The World's First Open Source Large Scale NFT Vector Database for Similarity Matching
 - [Nationals NPP Portal](https://github.com/GTBitsOfGood/national-npp): Connecting nonprofits with social computing organizations
