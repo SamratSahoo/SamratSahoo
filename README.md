@@ -1,6 +1,6 @@
 # Hey! I'm [Samrat](https://samratsahoo.com)
 
-I love using computing to build new paradigms to solve the world's most pressing humanitarian issues. Artificial intelligence, distributed systems, blockchains, education, and economics are all fields that excite me! In my free time, you'll find me leading [Bits of Good](https://bitsofgood.org/), where I help nonprofits amplify their impact through computing.
+I love using computing to build new paradigms to solve the world's most pressing humanitarian issues. Distributed systems, blockchains, reinforcement learning, education, and economics are all fields that excite me! In my free time, you'll find me leading [Bits of Good](https://bitsofgood.org/), where I help nonprofits amplify their impact through computing.
 
 🔭 ***I’m currently working on***
 - [Bits of Good Analytics Aggregation API](https://github.com/GTBitsOfGood/bog-analytics/): Unified Bits of Good Analytics - Built Using Streamlit & Express.js 
