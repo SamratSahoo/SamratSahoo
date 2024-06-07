@@ -6,6 +6,7 @@ I love using computing to build new paradigms to solve the world's most pressing
 - Retirement Portfolio Optimization Using Deep Reinforcement Learning
 
 💻 ***Projects I've Finished***
+- [Scatter Protocol](https://github.com/gtfintechlab/scatter-protocol): An Incentivized and Trustless Protocol for Decentralized Federated Learning 
 - [Bits of Good Analytics Aggregation API](https://github.com/GTBitsOfGood/bog-analytics/): Unified Bits of Good Analytics - Built Using Streamlit & Express.js 
 - [Healing4Heroes](https://github.com/GTBitsOfGood/Healing4Heroes): Accelerating Training for Post-Traumatic Stress Disorder Service Animals
 - [Roboflow Python Package](https://github.com/roboflow/roboflow-python): Interface with Roboflow API in Python -- my most popular project with 200,000+ monthly downloads! 
