@@ -1,13 +1,13 @@
 # Hey! I'm [Samrat](https://samratsahoo.com)
 
-I love using computing to build new paradigms to solve the world's most pressing humanitarian issues. Reinforcement learning, blockchains, distributed systems, and economics are all fields that excite me! In my free time, you'll find me leading [Bits of Good](https://bitsofgood.org/), where I help nonprofits amplify their impact through computing.
+I love using computing to build new paradigms to solve the world's most pressing humanitarian issues. Reinforcement learning, blockchains, distributed systems, robotics, and economics are all fields that excite me! In my free time, you'll find me leading [Bits of Good](https://bitsofgood.org/), where I help nonprofits amplify their impact through computing.
 
 🔭 ***I’m currently working on***
 - Retirement Portfolio Optimization Using Deep Reinforcement Learning
 
 💻 ***Projects I've Finished***
-- [Scatter Protocol](https://github.com/gtfintechlab/scatter-protocol): An Incentivized and Trustless Protocol for Decentralized Federated Learning
-- [Roboflow Python Package](https://github.com/roboflow/roboflow-python): Interface with Roboflow API in Python -- my most popular project with 200,000+ monthly downloads! 
+- [Scatter Protocol](https://github.com/gtfintechlab/scatter-protocol): An Incentivized and Trustless Protocol for Decentralized Federated Learning - Accepted to IEEE International Conference on Blockchain
+- [Roboflow Python Package](https://github.com/roboflow/roboflow-python): Interface with Roboflow API in Python -- my most popular project with 300,000+ monthly downloads! 
 - [Bits of Good Analytics Platform](https://github.com/GTBitsOfGood/bog-analytics/): The unified analytics platform for Bits of Good
 - [Healing4Heroes](https://github.com/GTBitsOfGood/Healing4Heroes): Accelerating Training for Post-Traumatic Stress Disorder Service Animals
 
