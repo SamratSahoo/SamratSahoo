@@ -12,7 +12,7 @@ I love using computing to build new paradigms to solve the world's most pressing
 - [Healing4Heroes](https://github.com/GTBitsOfGood/Healing4Heroes): Accelerating Training for Post-Traumatic Stress Disorder Service Animals
 
 🌱 ***I’m currently learning***
-<p align="left"><img src="https://global.discourse-cdn.com/standard17/uploads/libp2p/original/1X/aacb49457c3aace79a1038dd02996b402260215d.png" alt="bash" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="bash" width="100" height="40"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh0pu45AFFx6ZTuDIOLkdIKL78kb4cVTntw&usqp=CAU" alt="bash" width="40" height="40"/>
+<p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="bash" width="100" height="40"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkh0pu45AFFx6ZTuDIOLkdIKL78kb4cVTntw&usqp=CAU" alt="bash" width="40" height="40"/>
   
 💬 ***Ask me about***
 - Reinforcement Learning
