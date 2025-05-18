@@ -1,6 +1,6 @@
 # Hey! I'm [Samrat](https://samratsahoo.com)
 
-Hello! I’m Samrat, a recent graduate from the Georgia Institute of Technology, where I studied computer science with concentrations in artificial intelligence and low-level systems. This fall, I’ll be pursuing a Master's in Computer Science at Stanford University, focusing on artificial intelligence. I’m especially interested in research, particularly in reinforcement learning and its applications. In the past, my interests have spanned blockchains, federated learning, and economics.
+Hello! I’m Samrat, a recent graduate from the Georgia Institute of Technology, where I studied computer science with concentrations in artificial intelligence and low-level systems. This fall, I’ll be pursuing a Masters in Computer Science at Stanford University, focusing on artificial intelligence. I’m especially interested in research, particularly in reinforcement learning and its applications. In the past, my interests have spanned blockchains, federated learning, and economics.
 
 ***I’m currently working on:***
 - Generative Exploration for Offline Reinforcement Learning
